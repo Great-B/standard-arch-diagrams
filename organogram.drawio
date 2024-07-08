@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T13:40:06.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BqfMlouObT924XG3lYX7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T13:50:22.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="kFzC675AaoLdVWkWyU80" version="24.3.1" type="github">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
     <mxGraphModel dx="1434" dy="746" grid="0" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,29 +7,29 @@
         <mxCell id="4a9q22RTqe2NjmIpxG5I-117" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="22" y="7" width="1065" height="661" as="geometry" />
         </mxCell>
-        <mxCell id="uepafkn3aEIsYCHWRTWA-1" value="&lt;b&gt;Head, IT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=1;shadow=1;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;textShadow=1;" parent="4a9q22RTqe2NjmIpxG5I-117" vertex="1">
+        <mxCell id="uepafkn3aEIsYCHWRTWA-1" value="&lt;b&gt;NDUKWE ANAGHA&lt;br&gt;Head, IT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=1;shadow=1;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;textShadow=1;" parent="4a9q22RTqe2NjmIpxG5I-117" vertex="1">
           <mxGeometry x="462" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cwh8xjlLVyF8HEqu1CCD-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ORGANOGRAM&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;INFORMATION TECHNOLOGY DEPARTMENT&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;STANBIC IBTC PENSION MANAGERS LIMITED&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;AS AT JUNE 30, 2024&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="4a9q22RTqe2NjmIpxG5I-117" vertex="1">
           <mxGeometry x="34" width="994" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-2" value="&lt;b&gt;Head, PMO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=0;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-2" value="&lt;b&gt;KAZEEM LAWAL&lt;br&gt;Head, PMO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=0;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
           <mxGeometry y="312" width="98" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-3" value="&lt;b&gt;Head, IT Infrastructure&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-3" value="&lt;b&gt;FEMI FOLARIN&lt;br&gt;Head, IT Infrastructure&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
           <mxGeometry x="182" y="312" width="98" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-4" value="&lt;b&gt;Head, IT Service Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-4" value="&lt;b&gt;SUNDAY SOILE&lt;br&gt;Head, IT Service Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
           <mxGeometry x="335.38" y="312" width="98" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-5" value="Head, Application &amp;amp; E-Channels" style="rounded=0;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
-          <mxGeometry x="509" y="312" width="98" height="56" as="geometry" />
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-5" value="OLABISI POPOOLA&lt;br&gt;Head, Application &amp;amp; E-Channels" style="rounded=0;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+          <mxGeometry x="509" y="312" width="111" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-6" value="&lt;b&gt;Head, Software Development and Testing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
-          <mxGeometry x="667" y="312" width="98" height="56" as="geometry" />
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-6" value="&lt;b&gt;TUNDE FRANCIS&lt;br&gt;Head, Software Development and Testing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+          <mxGeometry x="667" y="312" width="107" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-7" value="&lt;b&gt;Head, IT Security&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
-          <mxGeometry x="821" y="312" width="98" height="56" as="geometry" />
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-7" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ABAYOMI OLUWOLE&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Head, IT Security&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;align=center;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+          <mxGeometry x="821" y="312" width="103" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4a9q22RTqe2NjmIpxG5I-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
           <mxGeometry x="463.38" y="-214" width="112.88" height="941.13" as="geometry" />
@@ -247,7 +247,7 @@
             <mxPoint x="509" y="335.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4a9q22RTqe2NjmIpxG5I-108" value="&lt;b&gt;Lead Data Scientist&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
+        <mxCell id="4a9q22RTqe2NjmIpxG5I-108" value="&lt;b&gt;MOJEED SALAWU&lt;br&gt;Lead Data Scientist&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;align=center;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
           <mxGeometry x="967" y="314" width="98" height="56" as="geometry" />
         </mxCell>
         <mxCell id="4a9q22RTqe2NjmIpxG5I-109" value="&lt;b&gt;Data Scientist(s)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fontStyle=0;textShadow=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="4a9q22RTqe2NjmIpxG5I-117">
