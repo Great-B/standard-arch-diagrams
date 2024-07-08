@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T13:02:48.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gZBVWPIF0Pxd_DwTiiSp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:30:53.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8whjJmrt4s5pXP6w0Yu1" version="24.3.1" type="github">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
-    <mxGraphModel dx="2534" dy="746" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="466" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="uepafkn3aEIsYCHWRTWA-6" value="&lt;b&gt;Head, IT Infrastructure&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="775" y="301" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwh8xjlLVyF8HEqu1CCD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uepafkn3aEIsYCHWRTWA-7" target="uepafkn3aEIsYCHWRTWA-93">
+        <mxCell id="cwh8xjlLVyF8HEqu1CCD-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uepafkn3aEIsYCHWRTWA-7" target="uepafkn3aEIsYCHWRTWA-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uepafkn3aEIsYCHWRTWA-7" value="&lt;b&gt;Head, Enterprise Application and E-Channels&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -240,7 +240,7 @@
         <mxCell id="uepafkn3aEIsYCHWRTWA-92" value="&lt;b&gt;IT Application Support(s)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="956" y="572" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cwh8xjlLVyF8HEqu1CCD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uepafkn3aEIsYCHWRTWA-93" target="uepafkn3aEIsYCHWRTWA-92">
+        <mxCell id="cwh8xjlLVyF8HEqu1CCD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uepafkn3aEIsYCHWRTWA-93" target="uepafkn3aEIsYCHWRTWA-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uepafkn3aEIsYCHWRTWA-93" value="&lt;b&gt;Lead IT Application Support&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -333,7 +333,7 @@
         <mxCell id="vU_8yxgyRDjp_DpZThU9-13" value="&lt;b&gt;Solution Architect(s)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="452" y="604" width="93.75" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="cwh8xjlLVyF8HEqu1CCD-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ORGANOGRAM&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;INFORMATION TECHNOLOGY DEPARTMENT&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;STANBIC IBTC PENSION MANAGERS LIMITED&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;AS AT JUNE 10, 2024&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cwh8xjlLVyF8HEqu1CCD-4" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;ORGANOGRAM&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;INFORMATION TECHNOLOGY DEPARTMENT&lt;/span&gt;&lt;span style=&quot;font-size: 24px; background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;STANBIC IBTC PENSION MANAGERS LIMITED&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;AS AT JUNE 30, 2024&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="56" y="7" width="994" height="140" as="geometry" />
         </mxCell>
       </root>
